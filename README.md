@@ -20,3 +20,10 @@
 - [ ] ADP - Chapter 
 - [ ] SQLP - Chapter 
 - [ ] 빅데이터분석기사 - Chapter
+
+#### Papers
+- [V] Batch Normalization
+- [V] Layer Normalization
+
+#### Others
+- [ ] 과외
