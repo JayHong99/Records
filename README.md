@@ -22,8 +22,8 @@
 - [ ] 빅데이터분석기사 - Chapter
 
 #### Papers
-- [V] Batch Normalization
-- [V] Layer Normalization
+- [X] Batch Normalization
+- [X] Layer Normalization
 
 #### Others
 - [ ] 과외
