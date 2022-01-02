@@ -6,7 +6,7 @@
 #### NLP
 - [ ] AI 504 Study Class 15 ~ Class 24 : Build Transformer (Due 01.13)
 - [ ] Read & Summarize "Attention is All you need" paper (Due 01.20)
-- [ ] Build Transformer Model with Dacon IMDB Dataset (Due 01.20)
+- [ ] Build Transformer Model with IMDB Dataset & Codeshare (Due 01.20)
 - [ ] End CS224N (Due 01.31)
 
 #### Deep Learning
