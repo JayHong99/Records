@@ -5,9 +5,16 @@
 ### 2022.01 계획
 #### NLP
 - [ ] AI 504 Study Class 15 ~ Class 24 : Build Transformer (Due 01.13)
-- [ ] Read & Summarize "Attention is All you need" paper (Due 01.20)
 - [ ] Build Transformer Model with IMDB Dataset & Codeshare (Due 01.20)
 - [ ] End CS224N (Due 01.31)
+- [ ] Personal Proejct
+
+#### AI504 Study
+- [ ] AI 504 Study Class 01 ~ Class 04 : Week - 1 (Due 01.09)
+- [ ] AI 504 Study Class 05 ~ Class 08 : Week - 2 (Due 01.16)
+- [ ] AI 504 Study Class 09 ~ Class 12 : Week - 3 (Due 01.23)
+- [ ] AI 504 Study Class 13 ~ Class 16 : Week - 4 (Due 01.30)
+
 
 #### Deep Learning
 - [ ] AI 504 Study Class 01 ~ Class 16 (Due 01.31)
@@ -22,8 +29,18 @@
 - [ ] 빅데이터분석기사 - Chapter
 
 #### Papers
-- [X] Batch Normalization
-- [X] Layer Normalization
+- [X] Batch Normalization (2021.12.29)
+- [X] Layer Normalization (2022.01.02)
+- [ ] Attention is All you need (Due 01.20)
 
 #### Others
 - [ ] 과외
+
+### 2022.02 계획
+#### Certifications
+- [ ]ADP
+- [ ]SQLP
+- [ ]TOEIC
+
+#### XAI
+- [ ] Read Papers
