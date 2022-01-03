@@ -38,9 +38,9 @@
 
 ### 2022.02 계획
 #### Certifications
-- [ ]ADP
-- [ ]SQLP
-- [ ]TOEIC
+- [ ] ADP
+- [ ] SQLP
+- [ ] TOEIC
 
 #### XAI
 - [ ] Read Papers
