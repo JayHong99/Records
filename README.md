@@ -10,7 +10,7 @@
 - [ ] Personal Proejct
 
 #### AI504 Study
-- [ ] AI 504 Study Class 01 ~ Class 04 : Week - 1 (Due 01.09)
+- [X] AI 504 Study Class 01 ~ Class 04 : Week - 1 (Due 01.09)
 - [ ] AI 504 Study Class 05 ~ Class 08 : Week - 2 (Due 01.16)
 - [ ] AI 504 Study Class 09 ~ Class 12 : Week - 3 (Due 01.23)
 - [ ] AI 504 Study Class 13 ~ Class 16 : Week - 4 (Due 01.30)
@@ -34,7 +34,11 @@
 - [ ] Attention is All you need (Due 01.20)
 
 #### Others
-- [ ] 과외
+- [X] 과외 3회차 (01.10)
+- [X] UROP 프로젝트 (01.12)
+- [ ] 과외 4회차
+- [ ] 과외 5회차
+- [ ] 과외 6회차
 
 ### 2022.02 계획
 #### Certifications
