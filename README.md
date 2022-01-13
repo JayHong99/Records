@@ -4,7 +4,7 @@
 
 ### 2022.01 계획
 #### NLP
-- [ ] AI 504 Study Class 15 ~ Class 24 : Build Transformer (Due 01.13)
+- [ ] AI 504 Study Class 15 ~ Class 24 : Build Transformer (Due 01.13) => UROP로 인해 Fail => (Due 01.20)
 - [ ] Build Transformer Model with IMDB Dataset & Codeshare (Due 01.20)
 - [ ] End CS224N (Due 01.31)
 - [ ] Personal Proejct
