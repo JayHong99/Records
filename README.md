@@ -36,6 +36,7 @@
 #### Others
 - [X] 과외 3회차 (01.10)
 - [X] UROP 프로젝트 (01.12)
+- [ ] Variational Encoder 추가 정리 및 기타 Autoencoder 찾기 (01.16)
 - [ ] 과외 4회차
 - [ ] 과외 5회차
 - [ ] 과외 6회차
