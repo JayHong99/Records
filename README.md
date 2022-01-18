@@ -11,7 +11,7 @@
 
 #### AI504 Study
 - [X] AI 504 Study Class 01 ~ Class 04 : Week - 1 (Due 01.09)
-- [ ] AI 504 Study Class 05 ~ Class 08 : Week - 2 (Due 01.16)
+- [X] AI 504 Study Class 05 ~ Class 08 : Week - 2 (Due 01.16)
 - [ ] AI 504 Study Class 09 ~ Class 12 : Week - 3 (Due 01.23)
 - [ ] AI 504 Study Class 13 ~ Class 16 : Week - 4 (Due 01.30)
 
