@@ -23,9 +23,7 @@
 - [ ] Check more Info for further Study (Due 01.31)
 
 #### Certifications
-- [ ] ADP - Chapter 
-- [ ] SQLP - Chapter 
-- [ ] 빅데이터분석기사 - Chapter
+- [ ] ADP - 6주 완성 Curriculum -> Repo 관리 예정
 
 #### Papers
 - [X] Batch Normalization (2021.12.29)
@@ -45,7 +43,6 @@
 ### 2022.02 계획
 #### Certifications
 - [ ] ADP
-- [ ] SQLP
 - [ ] TOEIC
 
 #### XAI
