@@ -36,10 +36,10 @@
 #### Others
 - [X] 과외 3회차 (01.10) => Data Analysis with Pandas & Numpy
 - [X] UROP 프로젝트 (01.12)
-- [ ] Variational Encoder 추가 정리 및 기타 Autoencoder 찾기 (01.16)
-- [ ] 과외 4회차 => Scikit-learn Basic + Logistic Regression
-- [ ] 과외 5회차
-- [ ] 과외 6회차
+- [X] Variational Encoder 추가 정리 (01.16)
+- [X] 과외 4회차 => Scikit-learn Basic + Logistic Regression 을 통해 삼성전자 주식 상승 or 하강 예측
+- [ ] 과외 5회차 => Web Crawling 을 통해 주식 데이터 수집
+- [ ] 과외 6회차 => API를 통해 데이터 수집 + 
 
 ---
 
