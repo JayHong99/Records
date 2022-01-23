@@ -7,6 +7,8 @@
 - [X] AI 504 Study Class 01 ~ Class 04 : Week - 1 (Due 01.09)
 - [X] AI 504 Study Class 05 ~ Class 08 : Week - 2 (Due 01.16)
 - [X] AI 504 Study Class 09 ~ Class 12 : Week - 3 (Due 01.23)
+- [ ] AI 504 Session 01 : CNN 정리 + MLP, Auto Encoder, Variational Autoencoder 구현 (Due 01.31)
+- [ ] AI 504 Session 02 : Class 15 ~ Class 18 정리 : Word Embedding + RNN (Due 01.31)
 
 #### Papers
 - [X] Batch Normalization (2021.12.29)
