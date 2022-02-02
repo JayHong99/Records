@@ -7,6 +7,7 @@
 - [ ] AI 504 Study 마무리
 - [ ] CS224N 마무리
 - [ ] MS-COCO 한국어 Captioning Project
+- [ ] NLI 관련 흐름 정리 + 구현
 
 #### CV
 - [ ] Fashin MNIST Data + Pytorch 
