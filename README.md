@@ -18,6 +18,9 @@
 - [ ] "Interpretable Machine Learning" 정리 (https://christophm.github.io/interpretable-ml-book/)
 - [ ] NLP x XAI 관련 연구 논문 정리
 
+#### Papers
+- [ ] VGG16
+
 #### Others
 - [ ] 과외
 
