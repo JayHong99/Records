@@ -9,6 +9,7 @@
 - [ ] MS-COCO 한국어 Captioning Project
 
 #### CV
+- [ ] Fashin MNIST Data + Pytorch 
 - [ ] AI 504 Study -> GAN Project 진행
 
 #### XAI
