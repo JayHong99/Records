@@ -2,31 +2,6 @@
 
 공부 계획 & 기록 정리장...
 
-### 2022.02 계획
-#### NLP
-- [ ] AI 504 Study 마무리
-- [ ] CS224N 마무리
-- [ ] MS-COCO 한국어 Captioning Project
-- [ ] NLI 관련 흐름 정리 + 구현
-
-#### CV
-- [ ] Fashin MNIST Data + Pytorch 
-- [ ] AI 504 Study -> GAN Project 진행
-
-#### XAI
-- [ ] XAI 
-- [ ] "XAI 설명 가능한 인공지능 인공지능을 해부하다" 정리
-- [ ] "Interpretable Machine Learning" 정리 (https://christophm.github.io/interpretable-ml-book/)
-- [ ] NLP x XAI 관련 연구 논문 정리
-
-#### Papers
-- [ ] VGG16
-
-#### Others
-- [ ] 과외
-
----
-
 ### 2022.01 기록 및 계획 (완)
 #### AI504 Study
 - [X] AI 504 Study Class 01 ~ Class 04 : Week - 1 (Due 01.09)
@@ -47,3 +22,28 @@
 - [X] Python 기초 과외 준비
 
 ---
+
+### 2022.02 계획
+#### NLP
+- [X] AI 504 Study 마무리
+  - [X] WEEK1 : IMG2TXT 이론
+  - [X] WEEK2 : Transformer 이론
+  - [X] WEEK3 : BERT 이론 + Use Pretrained Model
+  - [X] WEEK4 : MS COCO Img 2 Txt
+  - [X] WEEK5 : Graphical Neural Network
+
+#### CV
+- [X] Fashin MNIST Data + Pytorch 다양한 프로젝트 진행
+- [X] AI 504 Study -> GAN Project 진행
+  - [X] WEEK1 : Celeb-A GAN
+  - [X] WEEK2 : Celeb-A DCGAN
+  - [X] WEEK3 : Cycle GAN
+
+#### XAI
+- [X] XAI Study 진행 ("Interpretable Machine Learning")
+  - [X] WEEK1 : LIME & SHAP
+  - [X] WEEK2 : Interpretability on Simple Models (<b>Logreg</b>, Logistic, GAM, DT)
+  - [X] WEEK3~4 : <b>Decision Rules</b>, Rule FIt, Other Interpretable Models, Model-Agnostic Methods, Example-Based Explanations
+
+#### Others
+- [X] 과외
