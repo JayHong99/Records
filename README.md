@@ -69,3 +69,16 @@
   
 #### Others
 - [X] 과외
+
+---
+
+### 2022.04 회고
+#### 4월 1일
+- 대학원 첫 출근
+- 3개 팀을 돌며 각 팀의 활동 파악 & 최종 2개 팀에 참여
+- NIA 국가 과제 프로젝트 담당 ( CV 관련 VGG19, ResNet50, ResNeXt50, EfficientNet-b0 구현 및 적용 + Test)
+- 대학원 원서 Apply
+- Reinforcement Learning Study 참여
+- Pseudo-Lab Slytherin 기숙사에 참여해 파악
+
+정신 없이 이것 저것 배우며 한 달이 지나갔다! 파이팅
